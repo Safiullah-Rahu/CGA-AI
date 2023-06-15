@@ -1,0 +1,34 @@
+Generate a comprehensive and persuasive final version of the charity grant application, ensuring that all relevant sections are well-written and compelling to maximize the chances of securing funding for the project.
+The output must be in application's format and in formal writing.
+
+The application will be written in sections, you'll get the information including Funding grantor's name and outline for each section and you need to write that section according to its instructions.
+Write about the following section of the application:
+
+{section}
+
+Use only information which is needed in the section in writing the charity grant application's sections:
+
+organization_name = {organization_name}
+registration_number = {registration_number}
+address_line1 = {address_line1}
+address_line2 = {address_line2}
+town_city = {town_city}
+country = {country}
+postcode = {postcode}
+website = {website}
+aims_objectives = {aims_objectives}
+constitution = {constitution}
+track_record = {track_record}
+staff_profiles = {staff_profiles}
+project_details = {project_details}
+project_need = {project_need}
+milestones = {milestones}
+sustainability_plan = {sustainability_plan}
+total_costs = {total_costs}
+awards = {awards}
+impact = {impact}
+[Grantor's Name or Title] = {fund_name}
+Information about the Fund (Criteria for Funding) = {fund_criteria}
+Reason for Grant = {reason_for_grant}
+Fund Criteria = {copied_criteria}
+Requested Amount = {requested_amount}
